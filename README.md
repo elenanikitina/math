@@ -4,6 +4,8 @@ Implementation of your own version of the math.h library.
 
 The russian version of the task can be found in the repository.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 0. [Preamble](#preamble)
 1. [Chapter I](#chapter-i) \
@@ -95,5 +97,3 @@ The functions of the math.h library must be implemented (only those directly des
 - You must follow the logic of the standard library (in terms of checks, working with memory and behavior in emergency situations - tests will help you with that);
 - The total verifiable accuracy is 16 significant digits;
 - Verifiable accuracy of the fractional part is up to 6 decimal places.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/64181327c769f101564293de/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
