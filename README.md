@@ -97,3 +97,7 @@ The functions of the math.h library must be implemented (only those directly des
 - You must follow the logic of the standard library (in terms of checks, working with memory and behavior in emergency situations - tests will help you with that);
 - The total verifiable accuracy is 16 significant digits;
 - Verifiable accuracy of the fractional part is up to 6 decimal places.
+
+___
+
+Your project will require a code review — don't forget to check out the instructions for conducting and completing a code review on the provided [link](https://applicant.21-school.ru/code_review).
