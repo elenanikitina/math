@@ -20,7 +20,8 @@ START_TEST(test_fmod_simple) {
 END_TEST
 
 START_TEST(test_fmod_big_numbers) {
-  double test_values[] = {75000.001};
+  double test_values[] = {75000.001, 1e10,  1e15,   1e20,   1e100,
+                          1e300,     -1e10, -1e100, DBL_MAX};
   int num_tests = sizeof(test_values) / sizeof(test_values[0]);
 
   for (int i = 0; i < num_tests; i++) {
